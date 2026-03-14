@@ -1,3 +1,4 @@
 Olá. Meu nome é Leandro.
 Olá. Eu sou uma nova linha de comando.
 Terceira alteração
+Quarta alteração - meu arquivo da senha sumiu.
